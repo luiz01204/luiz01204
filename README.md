@@ -1,11 +1,9 @@
 # Olá! Eussou Luiz Antonio Dos Santos! 👋 #
 
-<!--
 - 📚 Estou estudando atualemnte...
 - 🌱 Eu estou estudando Java...
 - 📫 Meu contato é: luiz.machado.santos2000@gmailcom...
 - 😄 Pronouns: Ele/Dele...
--->
 
 <div align="center">
   <a href="https://github.com/luiz01204">
@@ -19,5 +17,5 @@
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luiz-java" height="30" width="40" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)">
+  <img align="center" alt="Luiz-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
