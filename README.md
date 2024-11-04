@@ -1,7 +1,6 @@
 # Olá! Eu Sou Luiz Antonio Dos Santos! 👋 #
 
 - 📚 Estou estudando atualmente...
-  - 🌱 Meu foco hoje é estudar C#...
 - 📫 Meu contato é: luizantonio.machado@icloud.com ...
 
 <div align="center">
@@ -15,8 +14,8 @@
   <img  align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Luiz-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" alt="Luiz-c sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   <img align="center" alt="Luiz-dot net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+   <img align="center" alt="Luiz- python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+   <img align="center" alt="Luiz-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align="center" alt="Luiz- Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Luiz- mongo db" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
