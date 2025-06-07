@@ -1,6 +1,6 @@
 # 👋 Fala aí! Eu sou o Luiz Antônio dos Santos Machado!
 
-🚀 Desenvolvedor **Junior Freelancer** focado em web com **TypeScript**, **React.js**, **Next.js**, **Node.js** e um pézinho no banco com **MySQL** e **MongoDB**.
+🚀 Desenvolvedor **Junior Freelancer** focado em web com **TypeScript**, **React.js**, **Next.js**, **Node.js**, **MySQL** e **MongoDB**.
 
 🎓 Atualmente estudando **Engenharia de Software** e metendo a cara pra virar um fullstack!
 
@@ -17,12 +17,6 @@
 </div>
 
 <br>
-
-## 📚 Atualmente estudando:
-- Engenharia de Software
-- Boas práticas de Clean Code
-- Testes (unitários e integração)
-- Arquitetura de projetos em React/Next
 
 ## 📫 Me chama aí:
 luizantonio.machado@icloud.com
