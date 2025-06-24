@@ -4,8 +4,6 @@
 
 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e focado nos estudos pra me tornar um **Full Stack Developer** completo.
 
----
-
 ## 🧠 Linguagens e tecnologias que mais uso:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
