@@ -24,5 +24,5 @@
 
 ## 🌐 Onde me encontrar:
 
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI)  
-- [YouTube](https://www.youtube.com/@SEU-CANAL-AQUI)
+- [LinkedIn](https://www.linkedin.com/in/luiz-ant%C3%B4nio-dos-santos-machado-393bb314b/)  
+- [YouTube](https://www.youtube.com/@luizmachadodev)
