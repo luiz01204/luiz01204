@@ -18,7 +18,7 @@
 
 ## 📫 Me chama aí:
 
-📧 luizantonio.machado@icloud.com  
+📧 luiz.machado.santos2000@gmail.com  
 📍 Brasil (UTC-3)  
 🚀 Sempre aberto pra colaborações e freelas
 
