@@ -19,6 +19,9 @@ Gosto de escrever código limpo, entender o “porquê” das coisas e construir
 <br>
 
 ## 📊 Estatísticas
+
+<br> 
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz01204&layout=compact&theme=radical&langs_count=8&card_width=600" alt="Top Langs" />
 </div>
