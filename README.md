@@ -1,14 +1,16 @@
 # 👋 Fala aí! Eu sou o Luiz Antônio dos Santos
 
-💻 **Desenvolvedor Backend Java** em formação, focado em criar **aplicações escaláveis, seguras e de alta disponibilidade** usando **Spring Boot**, **PostgreSQL**, **Redis**, **Docker** e **AWS**.  
+💻 **Desenvolvedor Full Stack em formação**, focado em criar **aplicações modernas, escaláveis e de alta disponibilidade**. No front-end uso **React** com **Tailwind**, e no back-end trabalho com **Java**, **Spring Boot**, **PostgreSQL**, **Redis**, **Docker** e **AWS**.  
 
-🎯 Atualmente, estou aprimorando minhas skills em **arquiteturas modernas**, **microsserviços** e **boas práticas de desenvolvimento backend**, enquanto curso **Análise e Desenvolvimento de Sistemas**.  
+🎯 Atualmente estou aprimorando minhas skills em **arquiteturas modernas**, **microsserviços**, **front-end responsivo** e **boas práticas de desenvolvimento full stack**, enquanto curso **Análise e Desenvolvimento de Sistemas**.  
 
 Gosto de escrever código limpo, entender o “porquê” das coisas e construir sistemas que aguentam pancada sem cair 😎
 
 <br>
 
 ## 🧠 Tecnologias que mais uso
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
